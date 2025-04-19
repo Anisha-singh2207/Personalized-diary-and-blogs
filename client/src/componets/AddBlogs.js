@@ -60,7 +60,7 @@ const AddBlogs = () => {
             variant="h2"
             textAlign={"center"}
           >
-            Post Your Blog
+            Post Your Experiences
           </Typography>
           <InputLabel className={classes.font} sx={labelStyles}>
             Title

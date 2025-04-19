@@ -78,7 +78,7 @@ const BlogDetail = () => {
               variant="h2"
               textAlign={"center"}
             >
-              Post Your Blog
+              Post Your Updates
             </Typography>
             <InputLabel sx={labelStyles}>Title</InputLabel>
             <TextField
